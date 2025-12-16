@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/activity</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/issues</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/pulls</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/security</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/blob/main/index.html</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/blob/main/product.css</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/releases</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/search?q=repo%3Aakshayscipy2000%2FCoffee-product++language%3AHTML</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/search?q=repo%3Aakshayscipy2000%2FCoffee-product++language%3ACSS</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/labels</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/milestones</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258618757</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258518585</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258018055</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257886799</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257552338</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/milestones?state=closed</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258618757/job/58165733761</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258618757/job/58165766978</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258618757/job/58165766966</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258618757/usage</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/a541015bd690f43961dd1b0118543298a5f1d0b0</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258518585/job/58165450789</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258518585/job/58165477094</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258518585/job/58165477063</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258518585/usage</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/cdad95e063f7e1bd0ac3e14240f987c29ca11f38</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258018055/job/58163964912</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258018055/job/58163991746</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258018055/job/58163991758</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20258018055/usage</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/0ce8e9f3a7de3c87a752e7e2741757e0199dc5b0</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257886799/job/58163589704</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257886799/job/58163618677</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257886799/job/58163618694</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257886799/usage</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/e1d57ce4acf75a6289bb22c18dd8aeba05352765</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257552338/job/58162662356</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257552338/job/58162686845</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257552338/job/58162686880</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/actions/runs/20257552338/usage</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/21f63e410d1b113a260fdb09e312cfdcf0f48b93</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/1cc302ecc1a79bf1816f6459d56d0c8fc930c90a</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/akshayscipy2000/Coffee-product/commit/f18df6a98a4609d6cb09d9147f103ae69796f09d</loc>
+  <lastmod>2025-12-16T06:24:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
